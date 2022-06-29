@@ -1,0 +1,10 @@
+table {
+  height: 200px;
+  width: 300px;
+  position: relative;
+  left: 42%;
+}
+.large {
+  font-size: xx-large;
+  font-weight: 900;
+}
