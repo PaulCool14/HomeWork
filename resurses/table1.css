@@ -1,0 +1,18 @@
+.caption {
+  font-style: italic;
+}
+.back {
+  background: #6b6b72;
+  width: 230px;
+  height: 135px;
+}
+td {
+  font-size: small;
+}
+.big {
+  font-size: larger;
+}
+.big1 {
+  font-weight: 600;
+  font-size: larger;
+}
